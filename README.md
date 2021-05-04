@@ -1,2 +1,3 @@
 # TIC_TAC_TOE
-game using python
+
+This is a simple game using python 
